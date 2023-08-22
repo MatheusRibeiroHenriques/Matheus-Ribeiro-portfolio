@@ -1,0 +1,12 @@
+  /* definição das variáveis das cores usadas no site*/
+:root {
+  --branco: #ffffff;
+  --cor-primaria: #02073e;
+  --cor-secundaria: #0f2137;
+  --escuro-cor-primaria: #3c415c;
+  --cor-terciaria: #a6b1e1;
+  --cor-terciaria-clara: #f3f6fb;
+
+  /* definição da fonte usada no site*/
+  --font-family: 'DM Sans', sans-serif;
+}
